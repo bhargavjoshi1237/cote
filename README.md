@@ -6,7 +6,7 @@ An Express.js application.
 
 ### Prerequisites
 
-- Node.js (v12 or higher)
+- Node.js (v18 or higher)
 - npm
 
 ### Installation
